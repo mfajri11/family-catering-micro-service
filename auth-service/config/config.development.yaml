@@ -1,0 +1,26 @@
+app:
+  name:
+  host:
+  port:
+  base-url-owner:
+  access-token-duration: 30
+
+postgres:
+  host:
+  port:
+  database-name:
+  username:
+  max-pool-size:
+  max-idle-time:
+  max-lifetime:
+
+redis:
+  host:
+  port:
+  database-number:
+  username:
+  password:
+
+owner:
+  base-url:
+  
